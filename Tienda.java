@@ -6,8 +6,6 @@ public class Tienda {
 
 	private int telefono;
 
-	private Producto[] producto;
-
 	public void venderProducto() {
 
 	}
